@@ -1,0 +1,64 @@
+section{
+    
+    display: flex;
+}
+.d1{
+    width: 30%;
+}
+.d2{
+    width: 900px;
+    height: 500px;
+    margin-top: 50px;
+    border-radius: 2%;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    display: flex;
+}
+.d3{
+    width: 30%;
+}
+.login{
+    width: 60%;
+    background-color: rgb(146, 146, 146);
+}
+.photo{
+    height: 500px;
+    width: 290px;
+    overflow: hidden;
+}
+.uppor_text{
+    font-size: 40px;
+    color: black;
+    margin-top: 50px;
+    margin-left: 160px;
+    margin-bottom: 50px;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Rubik Scribble', system-ui;
+}
+.tag{
+    margin: 0px 50px 30px 110px;
+    height: 30px;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Middile_text{
+    margin: 0px 0px 5px 150px;
+}
+input{
+    font-size: 14px;
+    margin: 10px 0px 10px 100px;
+    padding: 15px 100px 15px 10px;
+    border-radius: 5px;
+    border: none;
+}
+button {
+    font-family: "Roboto", sans-serif;
+    background-color: orangered;
+    width: 30%;
+    border: 0;
+    margin: 10px 0px 10px 160px;
+    padding: 8px;
+    border-radius: 50px;
+    color: #FFFFFF;
+    font-size: 18px;
+}
